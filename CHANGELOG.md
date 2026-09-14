@@ -1,41 +1,31 @@
-cff-version: 1.2.0
-message: "If you use or reference this work, please cite it as below."
+# Changelog
 
-title: "Governance at Execution™ Case Study 01: Execution Admissibility Under Changing Conditions"
+All notable public changes to Governance at Execution™ Case Study 01 will be documented in this file.
 
-type: article
+This changelog applies only to the approved public materials in this repository. It does not represent the complete internal research history for Governance at Execution™.
 
-authors:
-  - family-names: "Adjeli"
-    given-names: "Grace"
+---
 
-year: 2026
+## 2026-09-14
 
-publisher:
-  name: "BridgeCore AI"
+### Public Repository Established
 
-repository-code: "https://github.com/BridgeCoreAI/governance-at-execution-case-study-1"
+- Created the public repository for Governance at Execution™ Case Study 01.
+- Added the public Case Study 01 README.
+- Added the All Rights Reserved LICENSE.
+- Added citation metadata through `CITATION.cff`.
+- Added the approved Governance at Execution™ v4.0 public diagram.
+- Established the public technical-reference structure for Case Study 01.
 
-url: "https://bridgecore-ai.com/governance-at-execution-case-study-01.html"
+### Conceptual Baseline
 
-version: "Governance at Execution™ v4.0"
+- Governance at Execution™ v4.0 remains the closed conceptual baseline for Case Study 01.
+- MVAC v1.0 remains unchanged.
+- The principal findings remain classified as Conceptually Established.
+- ADE-001, EBST-001, and GPI-001 remain Not Executed.
 
-keywords:
-  - AI governance
-  - governance engineering
-  - execution governance
-  - execution admissibility
-  - AI risk management
-  - runtime governance
-  - AI assurance
-  - responsible AI
+### Scope
 
-abstract: >
-  Governance at Execution™ Case Study 01 examines whether a specific
-  consequential AI execution remains admissible under the material
-  conditions applicable when execution is attempted. The study
-  distinguishes general authorization from execution-specific
-  admissibility and presents Governance at Execution™ v4.0 as the
-  conceptual baseline.
+This public repository contains only approved public reference materials.
 
-license: "Proprietary"
+Private research records, proprietary governance-engineering methods, implementation logic, internal evidence artifacts, working materials, and other non-public research content remain outside the scope of this repository.
